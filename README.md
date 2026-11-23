@@ -8,7 +8,7 @@ PostgreSQL, Docker, Linux. Security-minded by training, not by slogan.
 ### What I'm working on
 
 **[CVE-AEGIS](https://github.com/Hector-dev/CVE-AEGIS)** — Non-intrusive vulnerability detection for legacy systems.
-FastAPI + React/TS + SQLite + NVD API 2.0. 16 published releases, CI on every push, 58 test files,
+FastAPI + React/TS + SQLite + NVD API 2.0. Versioned releases since v0.14 (currently v0.16.15), CI on every push, 58 test files,
 ADRs, traceability matrix, systemd installer and fleet agent.
 *Started as a hackathon project. It didn't stay one.*
 
